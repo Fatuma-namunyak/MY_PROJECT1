@@ -1,0 +1,61 @@
+nav{
+    display: flex;
+    align-items: center;
+    padding: 5px 9%;
+    background: black;
+    justify-content: space-between;
+    
+    
+
+
+}
+nav ul li {
+    color: white;
+    display: inline-block;
+    list-style:none
+    
+}
+.hd .navbar a:hover{
+    color: brown;
+text-decoration: dotted;
+pointer-events: visible;
+display: flex;
+flex-direction: column;
+color: dodgerblue;
+padding-top: 1rem;
+transition: 4s ease-in-out;
+
+
+
+
+}
+
+
+
+h1{
+    color: aqua;
+
+}
+section footer{
+    margin: 5rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: deepskyblue;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+}
+img{
+    padding: 5rem;
+    border-radius: 2rem;
+    align-items: center;
+
+}
+
+div p{
+
+
+    font-size: 10px;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
